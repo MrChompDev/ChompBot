@@ -1,0 +1,44 @@
+Chat Commands (Viewer-Usable)
+=============================
+
+Prefix: !
+
+Economy
+- !bal [username]
+  Shows coin balance for you or the optional username.
+
+- !fish
+  Fish once per cooldown to earn coins.
+
+- !slots <bet>
+  Slot machine bet.
+
+- !roulette <bet> <red|black|even|odd|0-36>
+  Roulette bet.
+
+Quotes
+- !quote
+  Shows a random quote.
+
+- !quote <number>
+  Shows a specific quote number.
+
+- !quote add <text>
+  Saves a new quote.
+
+Song Requests
+- !sr <song/link>
+  Adds a song request.
+
+- !sr list
+  Shows current queue preview.
+
+Shop
+- !shop
+  Shows shop items.
+
+- !shop buy <item>
+  Buys an item.
+
+- !shop inv
+  Shows your inventory.
